@@ -1,42 +1,52 @@
 [
   {
     "name": "Outlier Detection in Election and Voting Process: A Case Study of Polling Units in Abia State, Nigeria",
+    "image": { "image": "/images/outliner-detection.jpg" },
     "detail": "This project uses statistical and machine learning methods to identify anomalies in voter turnout and voting patterns in Abia State, Nigeria. It aims to detect irregularities that may indicate electoral fraud or logistical issues, thereby enhancing the transparency and integrity of the electoral process.",
     "link": "https://github.com/Melly567/Melly567/blob/main/HNG%20STAGE%201%20TASK%20MELISSA%20ONWUKA.py"
   },
   {
     "name": "Intelligent Chatbot Development Using Large Language Models",
+    "image": { "image": "/images/intelligent.jpg" },
     "detail": "Developed a sophisticated chatbot utilizing Large Language Models (LLMs) and Llama 3, integrated with LangChain and BERN. The chatbot is capable of understanding and responding to complex queries, enhancing user interaction. Implemented using Python, this project explores advanced NLP techniques and chatbot frameworks.",
     "link": "https://github.com/Melly567/Melly567/blob/main/Llama%203%20Chatbot%20Simplified.py"
   },
   {
     "name": "Custom AI Chatbot for Financial Services Using OpenAI API",
+    "image": { "image": "/images/chatbot.jpg" },
     "detail": "Developed and fine-tuned an AI chatbot tailored for Financial Services Institutions (FSIs). Leveraged OpenAI's API and token-based authentication for secure communication. This Python-based chatbot provides personalized customer support and information retrieval, enhancing the customer experience in financial services.",
     "link": "https://github.com/Melly567/Melly567/blob/main/Finetuned%20AI%20ChatBot%20for%20FSI.ipynb"
   },
   {
     "name": "Predictive Analytics for Flight Delay Prediction",
+    "image": { "image": "/images/flight-delay.jpg" },
     "detail": "Created a machine learning model to predict flight delays based on historical data and various influencing factors. Employed Python for data preprocessing, SQL for data extraction, and MS Excel for visualization. The project aims to enhance customer satisfaction and operational efficiency for airlines.",
     "link": "https://github.com/Melly567/Melly567/blob/main/Flight%20Delay%20Prediction.ipynb"
   },
   {
-    "name": "Predictive Model for Employee Attrition",
-    "detail": "Built a predictive model to identify factors contributing to employee attrition. Utilized Python for data analysis and machine learning model development, SQL for data management, and MS Excel for initial data exploration. The model aids in improving employee retention strategies.",
-    "link": "https://github.com/Melly567/Melly567/blob/main/Employee%20Attrition.ipynb"
-  },
-  {
     "name": "Movie Sentiment Analysis and Emoji Representation",
+    "image": { "image": "/images/emojis.jpg" },
     "detail": "Designed a machine learning model to analyze movie reviews and generate appropriate emoji representations. This NLP-based project employs Python for text processing and sentiment analysis, linking user reviews to emojis that capture the overall sentiment",
     "link": "https://github.com/Melly567/Melly567/blob/main/Movies%20to%Emojis%20Dataset%20.ipynb"
   },
-  {
-    "name": "Liquidity Forecasting for Financial Institutions",
-    "detail": "Developed a time series forecasting model to predict liquidity needs for financial institutions. Leveraged Python for statistical analysis, SQL for data management, and MS Excel for trend analysis. This model assists in optimizing cash flow management and financial planning.",
-    "link": "https://github.com/Melly567/Melly567/blob/main/Liquidity%20Forecasting.ipynb"
-  },
+
   {
     "name": "Flood Prediction: Estimating the Next Flood Date in Lagos, Nigeria",
+    "image": { "image": "/images/rainfall-data.jpg" },
     "detail": "This project uses historical weather and rainfall data to predict the next flood date in Lagos, Nigeria. Utilizing machine learning and time series analysis, it aims to develop a model for accurate flood forecasting to aid in disaster preparedness and response planning.",
     "link": "https://github.com/Melly567/Melly567/blob/main/HNG%20TASK%202%20FLOOD%20PREDICTION.py"
+  },
+  {
+    "name": "Predictive Model for Employee Attrition",
+    "image": { "image": "/images/employee-attribition.jpg" },
+    "detail": "Built a predictive model to identify factors contributing to employee attrition. Utilized Python for data analysis and machine learning model development, SQL for data management, and MS Excel for initial data exploration. The model aids in improving employee retention strategies.",
+    "link": "https://github.com/Melly567/Melly567/blob/main/Employee%20Attrition.ipynb"
+  },
+
+  {
+    "name": "Liquidity Forecasting for Financial Institutions",
+    "image": { "image": "/images/liquidity-forecasting.jpg" },
+    "detail": "Developed a time series forecasting model to predict liquidity needs for financial institutions. Leveraged Python for statistical analysis, SQL for data management, and MS Excel for trend analysis. This model assists in optimizing cash flow management and financial planning.",
+    "link": "https://github.com/Melly567/Melly567/blob/main/Liquidity%20Forecasting.ipynb"
   }
 ]

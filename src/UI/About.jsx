@@ -6,7 +6,7 @@ function About() {
       </h2>
       <div className="bg-[#FFFFFF14] p-5 rounded-md ">
         <p className="text-[#AA7DCE]  text-[1rem] md:text-[1.8rem]  mb-2 font-bold md:text-left text-center">
-          Hello! I&apos;m Melissa Onwuka👋🏾
+          Hello! I&apos;m Melissa 👋🏾
         </p>
         <p className="text-[#fff] font-light text-[1rem]  md:text-[1.3rem] md:text-left sm:text-[15px] text-justify">
           A data scientist and advanced analyst with a background in mechanical
