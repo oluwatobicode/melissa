@@ -20,7 +20,7 @@
   {
     "name": "Predictive Analytics for Flight Delay Prediction",
     "image": { "image": "/images/flight-delay.jpg" },
-    "detail": "Created a machine learning model to predict flight delays based on historical data and various influencing factors. Employed Python for data preprocessing, SQL for data extraction, and MS Excel for visualization. The project aims to enhance customer satisfaction and operational efficiency for airlines.",
+    "detail": "Created a machine learning model to predict flight delays based on historical data and various influencing factors. Employed Python for data preprocessing, Python for data extraction, and MS Excel for visualization. The project aims to enhance customer satisfaction and operational efficiency for airlines.",
     "link": "https://github.com/Melly567/Melly567/blob/main/Flight%20Delay%20Prediction.ipynb"
   },
   {
