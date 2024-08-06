@@ -4,7 +4,7 @@ import { FaLinkedin } from "react-icons/fa6";
 
 function Contact() {
   return (
-    <div className="px-10 py-5 leading-0 w-full">
+    <div className="px-10 py-5 leading-0 w-full" id="contact">
       <h2 className="text-[#fff] text-[2rem] mb-10 w-fit md:text-left text-center font-bold">
         Contact Me
       </h2>
@@ -20,7 +20,7 @@ function Contact() {
         </button>
 
         <button className="px-3 py-3 bg-[#FFFFFF14] rounded-full">
-          <a href="https://www.linkedin.com/melissaonwuka" target="blank">
+          <a href="http://linkedin.com/in/melissaonwuka" target="blank">
             <FaLinkedin color="#AA7DCE" size="40px" />
           </a>
         </button>

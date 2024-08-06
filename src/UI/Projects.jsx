@@ -3,7 +3,7 @@ import ProjectList from "./ProjectList";
 
 function Projects() {
   return (
-    <div className="px-10 py-5 leading-0 w-full">
+    <div className="px-10 py-5 leading-0 w-full" id="projects">
       <h2 className="text-[#fff] text-[2rem] mb-5 w-fit md:text-left text-center  font-bold">
         Projects
       </h2>

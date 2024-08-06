@@ -1,8 +1,8 @@
 [
   {
-    "name": " Predicting Customer Lifetime Value Using Data Science and Machine Learning",
-    "detail": "Developed a predictive model to estimate Customer Lifetime Value (CLV) leveraging Python, machine learning techniques, and SQL for data processing. Utilized MS Excel for exploratory data analysis and feature engineering. This model helps businesses prioritize high-value customers and optimize marketing strategies.",
-    "link": "https://github.com/Melly567/Melly567/blob/main/Customer_lifetime_value_model.ipynb"
+    "name": "Outlier Detection in Election and Voting Process: A Case Study of Polling Units in Abia State, Nigeria",
+    "detail": "This project uses statistical and machine learning methods to identify anomalies in voter turnout and voting patterns in Abia State, Nigeria. It aims to detect irregularities that may indicate electoral fraud or logistical issues, thereby enhancing the transparency and integrity of the electoral process.",
+    "link": "https://github.com/Melly567/Melly567/blob/main/HNG%20STAGE%201%20TASK%20MELISSA%20ONWUKA.py"
   },
   {
     "name": "Intelligent Chatbot Development Using Large Language Models",
@@ -33,5 +33,10 @@
     "name": "Liquidity Forecasting for Financial Institutions",
     "detail": "Developed a time series forecasting model to predict liquidity needs for financial institutions. Leveraged Python for statistical analysis, SQL for data management, and MS Excel for trend analysis. This model assists in optimizing cash flow management and financial planning.",
     "link": "https://github.com/Melly567/Melly567/blob/main/Liquidity%20Forecasting.ipynb"
+  },
+  {
+    "name": "Flood Prediction: Estimating the Next Flood Date in Lagos, Nigeria",
+    "detail": "This project uses historical weather and rainfall data to predict the next flood date in Lagos, Nigeria. Utilizing machine learning and time series analysis, it aims to develop a model for accurate flood forecasting to aid in disaster preparedness and response planning.",
+    "link": "https://github.com/Melly567/Melly567/blob/main/HNG%20TASK%202%20FLOOD%20PREDICTION.py"
   }
 ]

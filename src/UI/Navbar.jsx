@@ -8,7 +8,7 @@ function Navbar() {
       <div className="flex gap-5 bg-[#FFFFFF14] px-7 py-3 text-[#fff] rounded-full ">
         <div className="">
           <a
-            href=""
+            href="#projects"
             className="text-lg font-normal hover:text-[#AA7DCE] hover:transition-colors hover:font-bold"
           >
             Projects
@@ -16,7 +16,7 @@ function Navbar() {
         </div>
         <div className="">
           <a
-            href=""
+            href="#contact"
             className="text-lg font-normal hover:text-[#AA7DCE] hover:transition-colors hover:font-bold"
           >
             Contact Me
@@ -38,7 +38,7 @@ function Navbar() {
         </button>
 
         <button className="px-3 py-3 bg-[#FFFFFF14] rounded-full">
-          <a href="https://www.linkedin.com/melissaonwuka">
+          <a href="http://linkedin.com/in/melissaonwuka">
             <FaLinkedin color="#AA7DCE" size="35px" />
           </a>
         </button>
