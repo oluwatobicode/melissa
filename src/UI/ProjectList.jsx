@@ -1,4 +1,4 @@
-import { FaAngleRight } from "react-icons/fa";
+import { FaArrowUpRightFromSquare } from "react-icons/fa6";
 
 /* eslint-disable react/prop-types */
 function ProjectList({ el }) {
@@ -14,7 +14,7 @@ function ProjectList({ el }) {
           <a className="text-[#fff] text-[1rem]" href={link}>
             Check
           </a>
-          <FaAngleRight color="#fff" size="1rem" />
+          <FaArrowUpRightFromSquare color="#fff" size="1rem" />
         </button>
       </div>
     </div>
