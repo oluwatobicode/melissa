@@ -1,4 +1,4 @@
-import { FaTwitter } from "react-icons/fa6";
+import { SiLinktree } from "react-icons/si";
 import { MdEmail } from "react-icons/md";
 import { FaLinkedin } from "react-icons/fa6";
 
@@ -26,8 +26,8 @@ function Contact() {
         </button>
 
         <button className="px-3 py-3 bg-[#FFFFFF14] rounded-full">
-          <a href="https://www.X.com/mellyyy_o" target="blank">
-            <FaTwitter color="#AA7DCE" size="40px" />
+          <a href="https://linktr.ee/mellyyy_" target="blank">
+            <SiLinktree color="#AA7DCE" size="40px" />
           </a>
         </button>
       </div>
