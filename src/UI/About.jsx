@@ -1,10 +1,10 @@
 function About() {
   return (
     <div className="px-10 py-5 leading-0 w-full">
-      <h2 className="text-[#fff] text-[2rem] mb-5 w-fit md:text-left text-center  font-bold">
+      <h2 className="dark:text-[#fff] text-[#000] text-[2rem] mb-5 w-fit md:text-left text-center  font-bold">
         About me
       </h2>
-      <div className="bg-[#FFFFFF14] p-5 rounded-md ">
+      <div className="dark:bg-[#FFFFFF14] bg-[#252945] p-5 rounded-md shadow-2xl">
         <p className="text-[#AA7DCE]  text-[1rem] md:text-[1.8rem]  mb-2 font-bold md:text-left text-center">
           Hello! I&apos;m Melissa 👋🏾
         </p>

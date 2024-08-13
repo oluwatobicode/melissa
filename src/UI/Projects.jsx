@@ -4,7 +4,7 @@ import ProjectList from "./ProjectList";
 function Projects() {
   return (
     <div className="px-10 py-5 leading-0 w-full" id="projects">
-      <h2 className="text-[#fff] text-[2rem] mb-5 w-fit md:text-left text-center  font-bold">
+      <h2 className="dark:text-[#fff] text-[2rem] mb-5 w-fit md:text-left text-center  font-bold">
         Projects
       </h2>
       <p className="text-[#8c8c8c] md:text-[1.3rem] text-[1rem] mb-5">

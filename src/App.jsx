@@ -5,11 +5,12 @@ import Skills from "./UI/Skills";
 import Projects from "./UI/Projects";
 import Contact from "./UI/Contact";
 import Footer from "./UI/Footer";
+import { DarkModeProvider } from "./contexts/DarkMode";
 
 function App() {
   return (
-    <>
-      <div className="m-5">
+    <DarkModeProvider>
+      <div className="m-5 ">
         <Navbar />
         <Hero />
         <About />
@@ -18,7 +19,7 @@ function App() {
         <Contact />
       </div>
       <Footer />
-    </>
+    </DarkModeProvider>
   );
 }
 

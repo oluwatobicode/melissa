@@ -2,7 +2,7 @@ function Hero() {
   return (
     <div className="w-full">
       <div className="py-10 flex text-center flex-col items-center justify-center ">
-        <h1 className="text-[#fff] text-[2rem] font-bold mb-2 md:text-[3.5rem]">
+        <h1 className="dark:text-[#fff] text-[2rem] font-bold mb-2 md:text-[3.5rem]">
           Melissa Onwuka
         </h1>
         <p className="text-[#8c8c8c] md:text-[20px] sm:text-[10px] mb-2">
