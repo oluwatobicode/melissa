@@ -13,7 +13,7 @@ function ProjectList({ el }) {
         <img src={`${image?.image} `} alt={name} className="mb-2" />
         <p className="dark:text-[#8c8c8c] text-[#fff] mb-5">{detail}</p>
         <button className="flex justify-center items-center gap-2">
-          <a className="text-[#fff] text-[1rem]" href={link}>
+          <a className="text-[#fff] text-[1rem]" href={link} target="blank">
             Check
           </a>
           <FaArrowUpRightFromSquare color="#fff" size="1rem" />
