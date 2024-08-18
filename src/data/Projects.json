@@ -37,12 +37,17 @@
     "link": "https://github.com/Melly567/Melly567/blob/main/HNG%20TASK%202%20FLOOD%20PREDICTION.py"
   },
   {
+    "name": "Survival Prediction on the Titanic: A Python Machine Learning Approach",
+    "image": { "image": "/images/titanic.jpg" },
+    "detail": "Built a predictive model to estimate the survival likelihood of Titanic passengers. Utilized Python for data preprocessing, feature engineering, and machine learning model development. The model aids in predicting survival outcomes and understanding key factors influencing survival.",
+    "link": "https://github.com/Melly567/Melly567/blob/main/Titanic%20Machine%20Learning%20Competition.ipynb"
+  },
+  {
     "name": "Predictive Model for Employee Attrition",
     "image": { "image": "/images/employee-attribition.jpg" },
     "detail": "Built a predictive model to identify factors contributing to employee attrition. Utilized Python for data analysis and machine learning model development, SQL for data management, and MS Excel for initial data exploration. The model aids in improving employee retention strategies.",
     "link": "https://github.com/Melly567/Melly567/blob/main/Employee%20Attrition.ipynb"
   },
-
   {
     "name": "Liquidity Forecasting for Financial Institutions",
     "image": { "image": "/images/liquidity-forecasting.jpg" },

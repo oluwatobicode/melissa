@@ -10,7 +10,11 @@ function ProjectList({ el }) {
         <h3 className="dark:text-[#fff] text-[#AA7DCE] font-bold text-[1rem] mb-5">
           {name}
         </h3>
-        <img src={`${image?.image} `} alt={name} className="mb-2" />
+        <img
+          src={`${image?.image} `}
+          alt={name}
+          className="mb-2 w-[280px] h-[145px]"
+        />
         <p className="dark:text-[#8c8c8c] text-[#fff] mb-5">{detail}</p>
         <button className="flex justify-center items-center gap-2">
           <a className="text-[#fff] text-[1rem]" href={link} target="blank">
